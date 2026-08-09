@@ -1,0 +1,1 @@
+# DiscordBots_SimpleMMO-Collector-Bot
